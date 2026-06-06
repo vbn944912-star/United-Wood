@@ -1,0 +1,6 @@
+{
+  "name": "United Wood",
+  "description": "الموقع الرسمي لشركة المتحدة وود للاستيراد والتصدير - رواد استيراد وتصدير المنتجات الخشبية بأعلى معايير الجودة والالتزام.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
