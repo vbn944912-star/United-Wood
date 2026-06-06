@@ -4,7 +4,7 @@ import { BRAND_TAGLINE, BRAND_STATS, OFFICE_CONTACT_INFO } from "../data";
 
 export default function Hero({ onOpenAdvisor, onScrollToQuote }: { onOpenAdvisor: () => void; onScrollToQuote: () => void }) {
   // Use our real generated high-end image asset
-  const heroImage = "/src/assets/images/hero_luxury_logs_1780760670360.png";
+  const heroImage = "/images/hero_luxury_logs_1780760670360.png";
 
   return (
     <section id="hero" className="relative min-h-screen bg-[#1B1B1B] text-white flex items-center pt-24 overflow-hidden">
